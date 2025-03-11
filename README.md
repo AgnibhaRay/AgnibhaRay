@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/2006_mrx" target="blank"><img src="https://img.shields.io/twitter/follow/2006_mrx?logo=twitter&style=for-the-badge" alt="2006_mrx" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development and SAP MDG**
+- 🌱 I’m currently learning **Agile Methodologies**
 
 - 👯 I’m looking to collaborate on **Cloud Pipelines and Cloud native projects**
 
