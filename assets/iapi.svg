@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" fill="none" role="img" aria-labelledby="title desc">
+    <title id="title">IAPI</title><desc id="desc">04 / DATA ENGINEERING. Airfare data into price indices. SIH PROTOTYPE</desc>
+    <rect width="640" height="240" rx="12" fill="#13212C"/>
+    <path d="M1 1H639V239H1Z" stroke="#9CCFEB" stroke-opacity=".12"/>
+    <text x="30" y="39" fill="#9CCFEB" font-family="'Courier New',monospace" font-size="13" letter-spacing="2">04 / DATA ENGINEERING</text>
+    <text x="27" y="123" fill="#F0F2EF" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">IAPI</text>
+    <text x="30" y="161" fill="#B5C0CB" font-family="Arial,Helvetica,sans-serif" font-size="18">Airfare data into price indices.</text>
+    <text x="30" y="211" fill="#9CCFEB" font-family="'Courier New',monospace" font-size="13" letter-spacing="1">GO / PYTHON / POSTGRESQL</text>
+    <g stroke="#9CCFEB" color="#9CCFEB" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"><path d="M401 60V180H582M401 144H582M401 108H582M401 72H582" opacity=".15"/>
+    <path d="M415 153L439 138L461 144L486 105L511 115L537 74L566 87" stroke-width="2.5"/>
+    <path d="M415 153L439 138L461 144L486 105L511 115L537 74L566 87V179H415Z" fill="currentColor" fill-opacity=".06" stroke="none"/>
+    <circle cx="415" cy="153" r="4"/><circle cx="461" cy="144" r="4"/><circle cx="511" cy="115" r="4"/><circle cx="566" cy="87" r="4"/></g>
+    <text x="488" y="213" text-anchor="middle" fill="#9CCFEB" fill-opacity=".6" font-family="'Courier New',monospace" font-size="11" letter-spacing="2">SIH PROTOTYPE</text>
+    </svg>

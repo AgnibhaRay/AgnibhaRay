@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" fill="none" role="img" aria-labelledby="title desc">
+    <title id="title">lite-claw</title><desc id="desc">03 / AGENT TOOLING. A small runtime. Useful tools. CHAT → ACT → REPLY</desc>
+    <rect width="640" height="240" rx="12" fill="#1B1B2B"/>
+    <path d="M1 1H639V239H1Z" stroke="#BEB8F4" stroke-opacity=".12"/>
+    <text x="30" y="39" fill="#BEB8F4" font-family="'Courier New',monospace" font-size="13" letter-spacing="2">03 / AGENT TOOLING</text>
+    <text x="27" y="123" fill="#F0F2EF" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="-2">lite-claw</text>
+    <text x="30" y="161" fill="#B5C0CB" font-family="Arial,Helvetica,sans-serif" font-size="18">A small runtime. Useful tools.</text>
+    <text x="30" y="211" fill="#BEB8F4" font-family="'Courier New',monospace" font-size="13" letter-spacing="1">GO / LLM / TOOLS / MEMORY</text>
+    <g stroke="#BEB8F4" color="#BEB8F4" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"><path d="M450 73H519Q554 73 554 109V131Q554 167 519 167H450Q415 167 415 131V109Q415 73 450 73Z" stroke-dasharray="4 5" opacity=".5"/>
+    <rect x="389" y="100" width="54" height="40" rx="7"/><path d="M404 115H429M404 124H420"/>
+    <rect x="526" y="100" width="55" height="40" rx="7"/><path d="M541 111L535 120L541 129M565 111L571 120L565 129M557 111L549 129"/>
+    <path d="M463 73H486M480 68L486 73L480 78M506 167H483M489 162L483 167L489 172"/>
+    <circle cx="484" cy="120" r="18" fill="currentColor" fill-opacity=".1"/><path d="M484 109V131M473 120H495"/></g>
+    <text x="488" y="213" text-anchor="middle" fill="#BEB8F4" fill-opacity=".6" font-family="'Courier New',monospace" font-size="11" letter-spacing="2">CHAT → ACT → REPLY</text>
+    </svg>

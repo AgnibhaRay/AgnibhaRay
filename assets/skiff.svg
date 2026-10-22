@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" fill="none" role="img" aria-labelledby="title desc">
+    <title id="title">Skiff</title><desc id="desc">02 / BARE-METAL CLOUD. Build the platform beneath it. DEVELOPER PREVIEW</desc>
+    <rect width="640" height="240" rx="12" fill="#211D1C"/>
+    <path d="M1 1H639V239H1Z" stroke="#F5BE85" stroke-opacity=".12"/>
+    <text x="30" y="39" fill="#F5BE85" font-family="'Courier New',monospace" font-size="13" letter-spacing="2">02 / BARE-METAL CLOUD</text>
+    <text x="27" y="123" fill="#F0F2EF" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Skiff</text>
+    <text x="30" y="161" fill="#B5C0CB" font-family="Arial,Helvetica,sans-serif" font-size="18">Build the platform beneath it.</text>
+    <text x="30" y="211" fill="#F5BE85" font-family="'Courier New',monospace" font-size="13" letter-spacing="1">GO / LINUX / CLI / MCP</text>
+    <g stroke="#F5BE85" color="#F5BE85" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"><path d="M487 94V121M418 121H556M418 121V144M487 121V144M556 121V144" opacity=".65"/>
+    <rect x="453" y="47" width="68" height="47" rx="6" fill="currentColor" fill-opacity=".08"/><path d="M468 62H506M468 73H490"/>
+    <rect x="391" y="144" width="54" height="44" rx="6"/><rect x="460" y="144" width="54" height="44" rx="6"/><rect x="529" y="144" width="54" height="44" rx="6"/>
+    <path d="M406 157H430M406 166H430M406 175H421M475 157H499M475 166H499M475 175H490M544 157H568M544 166H568M544 175H559" opacity=".7"/><circle cx="487" cy="121" r="4" fill="currentColor"/></g>
+    <text x="488" y="213" text-anchor="middle" fill="#F5BE85" fill-opacity=".6" font-family="'Courier New',monospace" font-size="11" letter-spacing="2">DEVELOPER PREVIEW</text>
+    </svg>
