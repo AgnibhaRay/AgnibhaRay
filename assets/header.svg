@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Agnibha Ray — systems, from the inside out</title>
+<desc id="desc">An engineering notebook connecting data, storage engines, APIs, and products. Backend engineering, data platforms, infrastructure, and applied AI.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1280" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#101A25"/><stop offset="1" stop-color="#10141C"/></linearGradient>
+<radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1090 110) rotate(145) scale(440 380)" gradientUnits="userSpaceOnUse"><stop stop-color="#274E4A" stop-opacity=".5"/><stop offset="1" stop-color="#10141C" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#A1B4BB" fill-opacity=".13"/></pattern>
+</defs>
+<rect width="1280" height="440" rx="24" fill="url(#bg)"/><rect width="1280" height="440" rx="24" fill="url(#glow)"/>
+<path d="M746 0H1256Q1280 0 1280 24V416Q1280 440 1256 440H746Z" fill="url(#grid)"/>
+<rect x="40.5" y="40.5" width="1199" height="359" rx="12" stroke="#D0E0E3" stroke-opacity=".14"/>
+<path d="M64 80H100" stroke="#97E5C6" stroke-width="3"/>
+<text x="116" y="85" fill="#B8C8D2" font-family="'Courier New',monospace" font-size="15" letter-spacing="3">ENGINEERING / SELECTED WORK</text>
+<text x="64" y="186" fill="#F0F2EF" font-family="Arial,Helvetica,sans-serif" font-size="82" font-weight="700" letter-spacing="-4">Agnibha Ray</text>
+<text x="67" y="244" fill="#97E5C6" font-family="Arial,Helvetica,sans-serif" font-size="33" letter-spacing="-.7">Systems, from the inside out.</text>
+<text x="67" y="291" fill="#AABAC7" font-family="Arial,Helvetica,sans-serif" font-size="19">Storage engines. Data platforms. Developer tools.</text>
+<g font-family="'Courier New',monospace" font-size="13" letter-spacing="1.7" fill="#D8E4E5">
+<rect x="66" y="334" width="58" height="30" rx="5" fill="#97E5C6" fill-opacity=".09" stroke="#97E5C6" stroke-opacity=".3"/><text x="84" y="354">GO</text>
+<rect x="136" y="334" width="100" height="30" rx="5" fill="none" stroke="#B8C8D2" stroke-opacity=".2"/><text x="153" y="354">PYTHON</text>
+<rect x="248" y="334" width="116" height="30" rx="5" fill="none" stroke="#B8C8D2" stroke-opacity=".2"/><text x="265" y="354">SYSTEMS</text>
+<rect x="376" y="334" width="139" height="30" rx="5" fill="none" stroke="#B8C8D2" stroke-opacity=".2"/><text x="393" y="354">APPLIED AI</text>
+</g>
+<g stroke-linecap="round" stroke-linejoin="round">
+<path d="M826 128H875V208H919M1007 208H1064V295H1110M826 311H868V254H919" stroke="#97E5C6" stroke-opacity=".55" stroke-width="2"/>
+<path d="M1007 208H1110V128H1158M963 254V345H1030" stroke="#F5BE85" stroke-opacity=".45" stroke-width="2"/>
+<circle cx="875" cy="168" r="4" fill="#97E5C6"/><circle cx="1064" cy="252" r="4" fill="#97E5C6"/><circle cx="963" cy="303" r="4" fill="#F5BE85"/>
+<rect x="754" y="100" width="92" height="56" rx="8" fill="#182731" stroke="#41535A"/>
+<path d="M777 117H821M777 127H810M777 137H817" stroke="#A6D8C8" stroke-width="2"/>
+<rect x="919" y="164" width="88" height="90" rx="13" fill="#182D31" stroke="#97E5C6" stroke-opacity=".75"/>
+<rect x="943" y="189" width="40" height="40" rx="5" stroke="#97E5C6" stroke-width="2"/>
+<path d="M954 180V189M971 180V189M954 229V238M971 229V238M934 201H943M934 217H943M983 201H992M983 217H992" stroke="#97E5C6" stroke-width="2"/>
+<rect x="1110" y="267" width="82" height="56" rx="8" fill="#182731" stroke="#41535A"/>
+<path d="M1126 306L1137 289L1148 298L1160 281L1176 293" stroke="#97E5C6" stroke-width="2"/>
+<circle cx="1158" cy="128" r="21" fill="#2C2929" stroke="#F5BE85" stroke-opacity=".65"/>
+<path d="M1150 128H1166M1158 120V136" stroke="#F5BE85" stroke-width="2"/>
+<rect x="754" y="285" width="72" height="52" rx="8" fill="#182731" stroke="#41535A"/>
+<path d="M777 302L771 311L777 320M802 302L808 311L802 320M794 301L785 321" stroke="#B7BDD9" stroke-width="2"/>
+</g>
+<g fill="#91A7B4" font-family="'Courier New',monospace" font-size="12" letter-spacing="2">
+<text x="780" y="179">DATA</text><text x="932" y="280">ENGINE</text><text x="773" y="361">API</text><text x="1114" y="349">PRODUCT</text>
+</g></svg>
